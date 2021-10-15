@@ -16,15 +16,12 @@ _global_script_class_icons={
 
 config/name="3test"
 run/main_scene="res://smoothtest.tscn"
+run/delta_smoothing=false
 config/icon="res://icon.png"
 
 [display]
 
 window/size/always_on_top=true
-
-[physics]
-
-common/enable_pause_aware_picking=true
 
 [rendering]
 
